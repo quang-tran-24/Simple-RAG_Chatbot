@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+my_vectorstore/
+papers/
+FlagEmbedding_src/
